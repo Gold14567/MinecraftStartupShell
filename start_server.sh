@@ -11,6 +11,7 @@ echo "======================================================"
 sleep 2
 clear
 
+wget https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/437/downloads/paper-1.16.5-437.jar -o server.jar
 curl https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/437/downloads/paper-1.16.5-437.jar -o server.jar
 echo -e ">> I'm done downloading the server .jar . \a"
 #This function checks for an update, comparing the version numbers of to files.
