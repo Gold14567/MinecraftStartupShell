@@ -14,7 +14,6 @@ A simple bash script to create a minecraft server, it setups everything.
 ##Installation:
 
 Most of the installation is done by the script, but you still need:
-* A working version of Java 7,
+* A working version of Java 8,
 * To run the script. To do so, just drap n' drop the script in the Terminal.
-  * To open the terminal, press cmb + space and type Terminal, then press enter. 
 * That should do it !
